@@ -2,7 +2,7 @@
 Ứng dụng quản lý cửa hàng được xây dựng bằng **C# WinForms** và **SQL Server**, giúp tối ưu hóa quy trình bán hàng, quản lý kho và nhân sự cho các cửa hàng nhỏ và vừa.
 
 ## - Các tính năng chính:
-* **Quản lý Bán hàng:**: Tạo hóa đơn, tính tiền, trừ tồn kho tự động.
+* **Quản lý Bán hàng:** Tạo hóa đơn, tính tiền, trừ tồn kho tự động.
 * **Quản lý Kho:** Thêm/sửa/xóa hàng hóa, theo dõi tồn kho.
 * **Quản lý Nhân viên & Khách hàng:** Lưu trữ thông tin chi tiết.
 * **Bảo mật:** Hệ thống đăng nhập bảo mật (bảo vệ quyền truy cập dữ liệu).
