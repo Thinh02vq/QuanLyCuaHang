@@ -1,6 +1,10 @@
 # 🛒 Quản Lý Cửa Hàng (Store Management System)
 Ứng dụng quản lý cửa hàng được xây dựng bằng **C# WinForms** và **SQL Server**, giúp tối ưu hóa quy trình bán hàng, quản lý kho và nhân sự cho các cửa hàng nhỏ và vừa.
-
+##  Về dự án này
+Đây là dự án được tôi phát triển trong quá trình học tập về C# WinForms và quản lý cơ sở dữ liệu. 
+* **Giai đoạn phát triển:** 2022 - 2023.
+* **Tình trạng:** Vừa được tôi cấu trúc lại và đẩy lên GitHub vào tháng 3/2026 để quản lý source code chuyên nghiệp hơn và phục vụ mục đích showcase.
+  
 ## - Các tính năng chính:
 * **Quản lý Bán hàng:** Tạo hóa đơn, tính tiền, trừ tồn kho tự động.
 * **Quản lý Kho:** Thêm/sửa/xóa hàng hóa, theo dõi tồn kho.
