@@ -60,3 +60,9 @@ Cải thiện giao diện (UI/UX)
 
 ![Giao diện thống kê](images/thongke.png)
 
+---
+
+### Lời kết
+Cảm ơn bạn đã dành thời gian ghé thăm và tìm hiểu về project này! 
+Nếu bạn có bất kỳ góp ý nào để dự án hoàn thiện hơn, đừng ngần ngại chia sẻ với tôi nhé. 
+*Chúc bạn một ngày làm việc và học tập hiệu quả!*
